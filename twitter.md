@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Download
-permalink: /download/
+title: Twitter Like Feed
+permalink: /twitter/
 
-tagline: "Loved it? Download Gravity"
+tagline: "My personal Twitter ML-related feed"
 ---
+
+<div class="twitter">
+	<a class="twitter-timeline" href="https://twitter.com/toanml/likes?ref_src=twsrc%5Etfw">Tweets Liked by @toanml</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <br>
 
@@ -30,4 +34,6 @@ tagline: "Loved it? Download Gravity"
  <a href="http://facebook.com/hemangkr"><i class="fa fa-facebook"></i></a> &nbsp; &nbsp; &nbsp;<a href="http://github.com/hemangsk"><i class="fa fa-github"></i></a>
  </p>
 </div>
+
+
 
