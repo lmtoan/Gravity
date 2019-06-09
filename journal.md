@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Career Journal
+title: Journal
 permalink: /journal/
 category: "journal"
 tagline: "Writing = Meditation"
